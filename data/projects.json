@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Raspberry PI Trainer Kit",
+        "year": "2026",
+        "description": "Raspberry Pi Trainer Kit is an educational and practical training platform designed to help users learn programming, electronics, automation, Internet of Things (IoT), and embedded systems using a Raspberry Pi. It integrates various input and output modules such as sensors, LEDs, relays, displays, and communication interfaces for hands-on learning and experimentation.",
+        "image": "images/kit.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Ultrasonic Radar System",
+        "year": "2025",
+        "description": "Designed and developed a simple radar-style detection system using an Arduino, ultrasonic sensor, servo motor, LED, and buzzer. The system detects object distance in real time, displays scanning movement through servo rotation, and provides visual and audio alerts using LED and buzzer based on distance thresholds. Performed coding, hardware integration, testing, and calibration to ensure accurate detection and stable operation.",
+        "image": "images/radar.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "university": "POLITEKNIK NEGERI SEMARANG",
+		"logo": "images/plns.png",
+        "major": "D3 TEKNIK ELEKTRONIKA",
+        "year": "2023 - 2026",
+        "description": "A vocational education program that studies the design, operation, maintenance, and development of electronic systems. Students are equipped with knowledge and skills in electronic circuits, control systems, microcontrollers, instrumentation, and industrial automation through theoretical and practical learning to meet the needs of industry and technology.I have a project titled a Raspberry Pi Trainer Kit with Various Sensors as a Learning Platform"
+    },
+    {
+        "university": "SMKN 04 SEMARANG",
+		"logo": "images/smk4.jpg",
+        "major": "TEKNIK BISNIS SEPEDA MOTOR",
+        "year": "2019 - 2022",
+        "description": "Learn about maintenance, repair, and damage diagnosis on motorcycles. Also about engine systems, electrical systems, fuel systems, transmissions, frames, and modern motorcycle technology."
+    }
+]

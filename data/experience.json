@@ -1,0 +1,23 @@
+[
+    {
+        "company": "Internship | PT OPTIMA SINERGY CONVESTAMA",
+		"logo":"images/cpo.jpg",
+        "position": "ICE (Instrumen, Control, and Electrical)",
+        "year": "June 2025 - 30 Desember 2025",
+        "description": "As an Instrumentation, Control, and Electrical (ICE) Technician, I was responsible for maintaining, troubleshooting, and repairing electrical, instrumentation, and control systems to ensure safe, reliable, and efficient plant operations."
+    },
+	{
+        "company": "Work | PT ALFARIA TRIJAYA Tbk",
+		"logo":"images/Logo Alfamart.png",
+        "position": "Crew Store",
+        "year": "2022 - 2023",
+        "description": "As a Crew Store, I was responsible for supporting daily store operations by assisting customers, managing product displays, replenishing inventory, handling cash transactions, and maintaining store cleanliness and organization."
+    },
+    {
+        "company": "Internship | AHASS CAHAYA UTAMA",
+		"logo":"images/ahass.jpg",
+        "position": "Mechanic",
+        "year": "January 2022 - June 2022",
+        "description": "As a Mechanic, I was responsible for inspecting, diagnosing, repairing, and maintaining mechanical equipment and machinery to ensure safe and efficient operation."
+    }
+]

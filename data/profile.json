@@ -1,0 +1,31 @@
+{
+    "name": "Surya Sema Hambali",
+    "description": "Fresh graduate from D3 electronics engineering study program majoring in electrical engineering.",
+    "profileImage": "images/ppku.jpeg",
+    "email": "suryasemah@gmail.com",
+    "phone": "+62 (895) 3216-72792",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/ssemma18?igsh=eTJqZHk5OThhOWNk"
+        },
+        {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/profile.php?id=61556112971300"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv surya.pdf",
+			"icon": "far fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electronic Circuit Design", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Microcontroller", "icon": "fas fa-robot", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	    {"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	    {"name": "Motorcycle Diagnostics & Repair", "icon": "fas fa-motorcycle", "level": 95}
+    ]
+}
